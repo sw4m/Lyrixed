@@ -10,7 +10,7 @@ else
 fi
 
 lyrixedUrl="https://github.com/Nuzair46/Lyrixed/releases/latest/download/lyrixed.zip"
-targetDir="$HOME/.spicetify/CustomApps/lyrixed"
+targetDir="$HOME/.config/spicetify/CustomApps/lyrixed"
 
 mkdir -p "$targetDir"
 
